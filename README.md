@@ -5,3 +5,4 @@ one line function
 <br>
 List comprehension
 <br>
+use of break , continue and pass
